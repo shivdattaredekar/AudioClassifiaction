@@ -1,4 +1,4 @@
-# Audio Classification Project
+# Audio Classification using ANN
 
 ## Overview
 
