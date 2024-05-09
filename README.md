@@ -7,7 +7,7 @@ This project focuses on audio classification using machine learning techniques. 
 ## Features
 
 - **Data Preprocessing:** Audio samples are preprocessed to extract relevant features.
-- **Model Training:** Various machine learning models are trained on the preprocessed data.
+- **Model Training:** ANN models are trained on the preprocessed data.
 - **Evaluation:** The performance of each model is evaluated using appropriate metrics.
 - **Deployment:** A trained model is deployed for real-time classification of audio samples.
 
